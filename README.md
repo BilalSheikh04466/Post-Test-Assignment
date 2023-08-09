@@ -7,7 +7,7 @@
 
   Before you begin, ensure that the following software is installed on your system:
 
-  **.** Node.js (version 18.x)
+  **Node.js (version 18.x)**
 
   ## Installation and Setup
 
