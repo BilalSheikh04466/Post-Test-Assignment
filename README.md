@@ -18,9 +18,9 @@ This documentation serves as a guide of Test Assessment task of frontend in Next
 ### Technologies Used
 The fronted of the project is built using the following technologies/libraries:
 
-**Next.js** : JavaScript framework
-**Redux**: State Managment tool
-**React-Redux**: State Mangement tool
-**Antd**: UI Library for styled components
-**React Bootstrap**: UI Library for making responsive
-**Chakra UI**: UI Library for styled components
+**Next.js** : JavaScript framework <br/>
+**Redux**: State Managment tool <br/>
+**React-Redux**: State Mangement tool <br/>
+**Antd**: UI Library for styled components <br/>
+**React Bootstrap**: UI Library for making responsive <br/>
+**Chakra UI**: UI Library for styled components <br/>
